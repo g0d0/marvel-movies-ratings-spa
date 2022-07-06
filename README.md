@@ -1,24 +1,10 @@
-# spa3
+# Marvel Movies Ratings
 
-## Project setup
-```
+Projeto laboratorial para demonstração da utilização dos conceitos que envolvem a construção de um SPA, autenticação stateless, VueJS, componetização e vuex.
+
+# How to run
+```bash
+cp .env.example .env
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
